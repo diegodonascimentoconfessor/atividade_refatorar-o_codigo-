@@ -2,7 +2,7 @@
 // const express = require('express');
 
 // // Inicializa a aplicação Express e atribui à variável 'app'.
-// const app = express();
+// const app = express() r;
 
 // // Define a porta na qual o servidor irá escutar as requisições.
 // const PORT = 3000;
